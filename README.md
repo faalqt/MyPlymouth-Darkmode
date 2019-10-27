@@ -1,7 +1,7 @@
 # MyPlymouth-Darkmode
 A Stylus style for myPlymouth to change the "Evening Rounds" theme to be a Dark Mode.
 
-## This requires the Chrome / Firefox extension Stylus
+## This requires the extension Stylus
 [Chrome Link](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)
 
 [Firefox Link](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
