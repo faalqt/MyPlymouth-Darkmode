@@ -5,7 +5,6 @@
 @author       Faal / Justin Campbell
 @preprocessor default
 ==/UserStyle== */
-
 @-moz-document url-prefix("https://www.plymouth.edu/webapp/my") {
 
     html,
@@ -48,7 +47,8 @@
 
     .title>.box-inner,
     .channel-mycourses .body h2,
-    .channel .toggle-list h2 {
+    .channel .toggle-list h2,
+    .popover-inner h3 {
         color: white;
         border: none;
         background-color: #191d26;
@@ -65,7 +65,8 @@
     .stripe,
     .border-box>.body,
     .border-box>.foot,
-    #go-sidebar .widget .body {
+    #go-sidebar .widget .body,
+    .popover-content {
         background: #1f232d;
     }
 
