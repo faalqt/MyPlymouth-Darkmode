@@ -6,52 +6,70 @@
 @preprocessor default
 ==/UserStyle== */
 
-html, body {
-    background-color: #13171d;
-    background-image: none;
-    color: white;
-}
+@-moz-document url-prefix("https://www.plymouth.edu/webapp/my") {
+
+    html,
+    body {
+        background-color: #13171d;
+        background-image: none;
+        color: white;
+    }
 
 
-#webapp-head, #webapp-nav{
-    color:white;
-    background: #2b2d42;
-}
+    #webapp-head,
+    #webapp-nav {
+        color: white;
+        background: #2b2d42;
+    }
 
-#page-inner{
-    background: #13171d;
-}
+    #page-inner {
+        background: #13171d;
+    }
 
-#webapp-body{
-    color: white;
-}
+    #webapp-body {
+        color: white;
+    }
 
-#webapp-apres-foot, #webapp-foot, #webapp-final, .webapp-head .psu_logo{
-    visibility: hidden;
-}
+    #webapp-apres-foot,
+    #webapp-foot,
+    #webapp-final,
+    .webapp-head .psu_logo {
+        visibility: hidden;
+    }
 
-#go-search{
-    display: none;
-}
+    #go-search {
+        display: none;
+    }
 
-.webapp-head h1, .webapp-head h1 a{
-    color: white;
-}
+    .webapp-head h1,
+    .webapp-head h1 a {
+        color: white;
+    }
 
-.title > .box-inner, .channel-mycourses .body h2, .channel .toggle-list h2{
-    color: white;
-    border: none;
-    background-color: #191d26;
-}
+    .title>.box-inner,
+    .channel-mycourses .body h2,
+    .channel .toggle-list h2 {
+        color: white;
+        border: none;
+        background-color: #191d26;
+    }
 
-.channel-myprofile .content-tabs, #go-sidebar .widget{
-    border: none;
-}
+    .channel-myprofile .content-tabs,
+    #go-sidebar .widget {
+        border: none;
+    }
 
-.box-inner, .channel .content-tabs, .content-tabs, .stripe, .border-box > .body, .border-box > .foot, #go-sidebar .widget .body{
-    background: #1f232d;
-}
+    .box-inner,
+    .channel .content-tabs,
+    .content-tabs,
+    .stripe,
+    .border-box>.body,
+    .border-box>.foot,
+    #go-sidebar .widget .body {
+        background: #1f232d;
+    }
 
-.message-container{
-    color: black;
+    .message-container {
+        color: black;
+    }
 }
