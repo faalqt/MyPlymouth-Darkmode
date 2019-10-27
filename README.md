@@ -15,4 +15,4 @@ After installing Stylus click on the link below to install the theme.
 ![Install button](https://i.imgur.com/4WnKahb.png)
 
 # What it should look like
-![Yeet](https://i.imgur.com/zT4vmHt.png)
+![Yeet](https://i.imgur.com/LZ0ebYF.png)
