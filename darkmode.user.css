@@ -15,7 +15,11 @@
         color: white;
     }
 
+/*     #webapp-head{
+        height: 90px;
+    } */
 
+    
     #webapp-head,
     #webapp-nav {
         color: white;
@@ -33,11 +37,11 @@
     #webapp-apres-foot,
     #webapp-foot,
     #webapp-final,
-    .webapp-head .psu_logo {
+    .webapp-head .psu_logo, #webapp-avant-body {
         visibility: hidden;
     }
 
-    #go-search {
+    #go-search, .webapp-head .myplymouth_logo{
         display: none;
     }
 
