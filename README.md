@@ -1,6 +1,6 @@
 # MyPlymouth-Darkmode
 A Stylus style for myPlymouth to change the "Evening Rounds" theme to be a Dark Mode.
-Colors insired from Anichart's dark mode.
+Colors inspired from Anichart's dark mode.
 
 ## This requires the extension Stylus
 [Chrome Link](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)
