@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name myPlymouth Darkmode
 @namespace MyPlymouthDarkMode
-@version 1.0.1
+@version 1.0.2
 @homepageURL https://github.com/faalqt/MyPlymouth-Darkmode
 @updateURL https://github.com/faalqt/MyPlymouth-Darkmode/raw/master/darkmode.user.css
 @author Justin C
@@ -15,11 +15,11 @@
         color: white;
     }
 
-/*     #webapp-head{
+    /*     #webapp-head{
         height: 90px;
     } */
 
-    
+
     #webapp-head,
     #webapp-nav {
         color: white;
@@ -37,11 +37,13 @@
     #webapp-apres-foot,
     #webapp-foot,
     #webapp-final,
-    .webapp-head .psu_logo, #webapp-avant-body {
+    .webapp-head .psu_logo,
+    #webapp-avant-body {
         visibility: hidden;
     }
 
-    #go-search, .webapp-head .myplymouth_logo{
+    #go-search,
+    .webapp-head .myplymouth_logo {
         display: none;
     }
 
@@ -71,12 +73,18 @@
     .border-box>.body,
     .border-box>.foot,
     #go-sidebar .widget .body,
-    .popover-content, .stripe li:nth-child(2n){
+    .popover-content,
+    .stripe li:nth-child(2n) {
         background: #1f232d;
         background-color: #1f232d;
     }
 
     .message-container {
+        color: black;
+    }
+
+    table.grid th,
+    table.grid td {
         color: black;
     }
 }
