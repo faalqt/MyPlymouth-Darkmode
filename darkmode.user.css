@@ -71,8 +71,9 @@
     .border-box>.body,
     .border-box>.foot,
     #go-sidebar .widget .body,
-    .popover-content {
+    .popover-content, .stripe li:nth-child(2n){
         background: #1f232d;
+        background-color: #1f232d;
     }
 
     .message-container {
